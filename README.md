@@ -1,0 +1,2 @@
+# supportme
+mainrepository
